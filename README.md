@@ -57,6 +57,6 @@ This will attempt to inject `your.dll` into the running instance of `notepad.exe
 - [DLL Injection Techniques](https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/process-injection-techniques)
 - [Process Memory Manipulation](https://www.geoffchappell.com/studies/windows/win32/memory/process/index.htm)
 
-## Author
+##
 This project was developed for academic and research purposes. Contributions and suggestions are welcome.
 
